@@ -1,4 +1,4 @@
-class Solution:
+class Solution: 
     def jump(self, nums: List[int]) -> int:
         res = nums
         res[-1] = 0
