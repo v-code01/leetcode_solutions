@@ -9,3 +9,5 @@ class Solution:
 
         return min(f(cards), default=-1)
      #IM BACK
+
+        
